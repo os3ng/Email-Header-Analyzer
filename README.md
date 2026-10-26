@@ -59,18 +59,7 @@ Edit `brand_domains.json` to add your own **verified reference domains**. The in
 - Add registrable-domain parsing using the Public Suffix List, richer Unicode confusable handling, and benchmarked precision/recall on labeled examples.
 - Add an optional attachment/URL inspection module with appropriate sandboxing.
 
-## Publishing on GitHub
 
-1. Create an **empty** GitHub repository named `email-header-analyzer`.
-2. Open the extracted project folder in the terminal.
-3. Run:
-
-```powershell
-git init
-git add .
-git commit -m "Build explainable email spoofing and brand lookalike analyzer"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/email-header-analyzer.git
 git push -u origin main
 ```
 
