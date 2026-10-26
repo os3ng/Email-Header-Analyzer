@@ -1,0 +1,9 @@
+From: "Maybank Security" <alerts@maybannk2u.com.my>
+To: example.person@example.net
+Reply-To: support@maybannk2u.com.my
+Subject: Important account security message (synthetic test)
+Authentication-Results: mx.example.net; spf=pass smtp.mailfrom=maybannk2u.com.my; dkim=pass header.d=maybannk2u.com.my; dmarc=pass header.from=maybannk2u.com.my
+Date: Mon, 26 Oct 2026 09:15:00 +0800
+Content-Type: text/plain; charset=UTF-8
+
+Synthetic test email. No real banking content or links.

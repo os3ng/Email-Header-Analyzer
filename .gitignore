@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+.env.*
+.DS_Store
+# Never commit real private emails; sample folder contains synthetic fixtures only.
+private-emails/

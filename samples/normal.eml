@@ -1,0 +1,10 @@
+Received: from mail.example.org (mail.example.org [192.0.2.15]) by mx.example.net; Mon, 26 Oct 2026 14:00:00 +0000
+Authentication-Results: mx.example.net; spf=pass smtp.mailfrom=example.org; dkim=pass header.d=example.org; dmarc=pass header.from=example.org
+From: "Team" <updates@example.org>
+Reply-To: "Team" <updates@example.org>
+Return-Path: <updates@example.org>
+To: user@example.net
+Subject: Monthly update
+Date: Mon, 26 Oct 2026 14:00:00 +0000
+
+This sample is synthetic and harmless.

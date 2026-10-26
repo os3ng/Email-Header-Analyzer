@@ -1,0 +1,10 @@
+Received: from unknown-host.example (unknown-host.example [192.0.2.66]) by mx.example.net; Mon, 26 Oct 2026 14:00:00 +0000
+Authentication-Results: mx.example.net; spf=fail smtp.mailfrom=company.example; dkim=fail header.d=company.example; dmarc=fail header.from=company.example
+From: "IT Support" <helpdesk@company.example>
+Reply-To: "Help Desk" <urgent-reset@other.example>
+Return-Path: <helpdesk@company.example>
+To: user@example.net
+Subject: Urgent password reset
+Date: Mon, 26 Oct 2026 14:00:00 +0000
+
+This sample is synthetic and harmless.
